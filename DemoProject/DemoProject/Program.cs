@@ -10,6 +10,7 @@ namespace DemoProject
     {
         static void Main(string[] args)
         {
+            Console.Write("");
         }
     }
 }
